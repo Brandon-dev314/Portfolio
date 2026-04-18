@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 
 const API_URL = import.meta.env.PROD
-  ? 'https://tu-backend-en-render.com/api/chat'
+  ? 'https://portfolio-production-fe7d.up.railway.app/api/chat'
   : '/api/chat';
 
 const SUGGESTIONS = [
