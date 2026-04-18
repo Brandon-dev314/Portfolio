@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3001;
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://brandon-portfolio.vercel.app',
+    'https://portfolio-beige-six-57.vercel.app',
   ],
 }));
 
