@@ -44,7 +44,7 @@ export const PROJECTS = [
     title: "Space missions",
     subtitle: "Data analysis & visualization",
     description:
-      "This project performs exploratory data analysis (EDA) and builds a predictive model on the Space_Corrected.csv dataset, which contains historical information about space launches from 1957 to the present."
+      "This project performs exploratory data analysis (EDA) and builds a predictive model on the Space_Corrected.csv dataset, which contains historical information about space launches from 1957 to the present.",
     tech: ["Data science", "EDA", "Data analysis", "Clasificacion"],
     accent: "#f59e0b",
     icon: "△",
