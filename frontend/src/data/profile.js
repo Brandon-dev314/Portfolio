@@ -44,8 +44,8 @@ export const PROJECTS = [
     title: "Space missions",
     subtitle: "Data analysis & visualization",
     description:
-      "REST API for multi-waypoint delivery route optimization using OpenRouteService with vehicle constraints and real-time geocoding.",
-    tech: ["Django", "OpenRouteService", "SQLite", "REST API"],
+      "This project performs exploratory data analysis (EDA) and builds a predictive model on the Space_Corrected.csv dataset, which contains historical information about space launches from 1957 to the present."
+    tech: ["Data science", "EDA", "Data analysis", "Clasificacion"],
     accent: "#f59e0b",
     icon: "△",
     github: "https://github.com/Brandon-dev314/Space-Missions/blob/main/README.md",
